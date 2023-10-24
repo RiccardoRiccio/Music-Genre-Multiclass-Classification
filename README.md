@@ -1,7 +1,7 @@
 # Music Genre Multi-class Classification
 
-- The project leverages Machine Learning techniques to perform multi-class classification on musical tracks, effectively categorizing them into distinct genres. Specifically, it utilizes the CatBoost algorithm and custom Transformer preprocessing techniques to achieve superior classification performance compared to standard Machine Learning algorithms.
-- The Notebook file "Music-Genre-Multiclass-Classification" has a comprehensive comments for each parts of the project.
+-   The project leverages Machine Learning techniques to perform multi-class classification on musical tracks, effectively categorizing them into distinct genres. Specifically, it utilizes the CatBoost algorithm and custom Transformer preprocessing techniques to achieve superior classification performance compared to standard Machine Learning algorithms.
+-   The Notebook file "Music-Genre-Multiclass-Classification" has a comprehensive comments for each parts of the project.
 
 ## Table of Contents
 1. [Project Structure](#project-structure)
