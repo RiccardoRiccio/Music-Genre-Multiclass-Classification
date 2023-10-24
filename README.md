@@ -1,33 +1,9 @@
-# Music Genre Multi-class Classification
-
+Music Genre Multi-class Classification
 This project leverages Machine Learning techniques to perform multi-class classification on musical tracks, effectively categorizing them into distinct genres.
 
-## Project Structure
-
-- `/notebooks`:
-  - `RiccardoRiccio_506483_Exam22_02.ipynb`: The main Jupyter notebook containing the analysis and machine learning model.
-  
-- `/data`:
-  - (You may want to include your data files here, or provide instructions on how to obtain the data)
-  
-- `requirements.txt`: List of Python libraries required for this project.
-
-## Getting Started
-
-### Prerequisites
-
-- Ensure you have Python installed on your machine.
-- It's advisable to create a virtual environment to manage dependencies for this project.
-
-### Installation
-
-1. Clone this repository to your local machine.
-   ```bash
-   git clone https://github.com/RiccardoRiccio/Music-Genre-Multiclass-Classification.git
-
-
-
 Table of Contents
+Project Structure
+Getting Started
 Introduction
 Problem Statement
 Dataset
@@ -37,9 +13,38 @@ Model Selection
 Model Optimization
 Ensemble Methods
 Evaluation Metrics
-Installation
-Usage
 Contributors
+Project Structure
+/notebooks:
+RiccardoRiccio_506483_Exam22_02.ipynb: The main Jupyter notebook containing the analysis and machine learning model.
+/data:
+(You may want to include your data files here, or provide instructions on how to obtain the data)
+requirements.txt: List of Python libraries required for this project.
+Getting Started
+Prerequisites
+Ensure you have Python installed on your machine.
+It's advisable to create a virtual environment to manage dependencies for this project.
+Installation
+Clone this repository to your local machine.
+bash
+Copy code
+git clone https://github.com/RiccardoRiccio/Music-Genre-Multiclass-Classification.git
+Navigate to the project directory.
+bash
+Copy code
+cd Music-Genre-Multiclass-Classification
+Create a virtual environment.
+bash
+Copy code
+python3 -m venv myenv
+Activate the virtual environment.
+bash
+Copy code
+source myenv/bin/activate  # On Windows, use `myenv\Scripts\activate`
+Install the required packages.
+bash
+Copy code
+pip install -r requirements.txt
 Introduction
 This project aims to classify music tracks into 11 different genres using machine learning techniques. The project is implemented in Python and uses various libraries for data manipulation, visualization, and machine learning.
 
