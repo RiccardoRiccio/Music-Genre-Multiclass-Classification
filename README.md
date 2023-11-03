@@ -15,7 +15,7 @@
 9. [Model Optimization](#model-optimization)
 10. [Ensemble Methods](#ensemble-methods)
 11. [Evaluation Metrics](#evaluation-metrics)
-12. [Contributors](#contributors)
+
 
 ## Project Structure
 
